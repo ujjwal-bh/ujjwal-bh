@@ -13,11 +13,11 @@ I'm a passionate software developer interested in web development. I enjoy build
 - [Expense-sync](https://github.com/ujjwal-bh/expense-sync-ui): Frontend for Expense tracker application along with options to split bill (share expense) built using React, Typescript, tailwindcss and shadcn ui
 
 ### Skills
-- Programming Languages: Javascript, Typescript, Java
-- Frontend Development: ReactJS, Angular, NextJS
-- Backend Development: NodeJS, NestJS
-- Database: Mysql, Mongodb
-- Tools & Technologies: VsCode, Git, Jira, Docker
+-  **Programming Language** : Javascript, Typescript, Java
+- **Frontend Development:** ReactJS, Angular, NextJS
+- **Backend Development**: NodeJS, NestJS
+- **Database**: Mysql, Mongodb
+- **Tools & Technologies**: VsCode, Git, Jira, Docker
 
 ### Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/ujjwal2021/)
