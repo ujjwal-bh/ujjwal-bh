@@ -9,7 +9,8 @@ I'm a passionate software developer interested in web development. I enjoy build
 - 😄 Pronouns: he/him
 
 ### Featured Projects
-- [Expense-sync](https://github.com/ujjwal-bh/expense-sync-ui): Frontend for Expense tracker application along with options to split bill (share expense) built using React, Typescript, tailwindcss and shadcn ui 
+- [Clips-fullstack](https://github.com/ujjwal-bh/clips-fullstack): Web application built using Angular, Firebase, and Tailwind CSS. It enables users to seamlessly share gaming highlights while providing an immersive user experience. 
+- [Expense-sync](https://github.com/ujjwal-bh/expense-sync-ui): Frontend for Expense tracker application along with options to split bill (share expense) built using React, Typescript, tailwindcss and shadcn ui
 
 ### Skills
 - Programming Languages: Javascript, Typescript, Java
